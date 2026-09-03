@@ -1,0 +1,12 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89083,s=>{"use strict";var e=s.i(43476);let t=[{src:"/assets/optimized/1-3.webp"},{src:"/assets/optimized/2-3.webp"},{src:"/assets/optimized/3-1.webp"},{src:"/assets/optimized/4-1.webp"},{src:"/assets/optimized/4-3.webp"},{src:"/assets/optimized/5-1.webp"},{src:"/assets/optimized/5-3.webp"},{src:"/assets/optimized/6-1.webp"},{src:"/assets/optimized/6-2.webp"},{src:"/assets/optimized/6-3.webp"},{src:"/assets/optimized/7-1.webp"},{src:"/assets/optimized/7-2.webp"},{src:"/assets/optimized/7-3.webp"},{src:"/assets/optimized/8-2.webp"},{src:"/assets/optimized/8-3.webp"},{src:"/assets/optimized/9-2.webp"},{src:"/assets/optimized/10.webp"},{src:"/assets/optimized/11.webp"}];s.s(["AppHighlights",0,function(){return(0,e.jsxs)("section",{className:"relative py-20 lg:py-24 overflow-hidden",children:[(0,e.jsx)("div",{className:"max-w-7xl mx-auto px-6",children:(0,e.jsxs)("div",{className:"text-center mb-16",children:[(0,e.jsxs)("span",{className:"inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass text-[#7C4DFF] text-sm font-medium mb-6 border border-[#7C4DFF]/20",children:[(0,e.jsx)("span",{className:"w-2 h-2 rounded-full bg-[#FF8A3D] animate-pulse"}),"App Highlights"]}),(0,e.jsxs)("h2",{className:"text-3xl sm:text-4xl md:text-5xl font-bold mb-4 text-gray-900 dark:text-white",children:["Mobile App"," ",(0,e.jsx)("span",{className:"gradient-text-animated",children:"Showcase"})]}),(0,e.jsx)("p",{className:"text-gray-500 dark:text-foreground/50 text-lg max-w-2xl mx-auto",children:"A glimpse of our mobile app designs and interfaces"})]})}),(0,e.jsx)("div",{className:"mt-16 overflow-hidden",children:(0,e.jsx)("div",{className:"app-scroll flex gap-5 w-max",children:[...t,...t].map((s,t)=>(0,e.jsx)("div",{className:"flex flex-col items-center w-[200px] sm:w-[240px] shrink-0",children:(0,e.jsx)("div",{className:"relative w-full rounded-2xl overflow-hidden shadow-lg",children:(0,e.jsx)("img",{src:s.src,alt:`DanishCo digital agency feature highlight ${t+1}`,width:400,height:800,loading:"lazy",decoding:"async",className:"w-full h-auto"})})},t))})}),(0,e.jsx)("style",{children:`
+        .app-scroll {
+          animation: appScroll 50s linear infinite;
+        }
+        .app-scroll:hover {
+          animation-play-state: paused;
+        }
+        @keyframes appScroll {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-50%); }
+        }
+      `})]})}])},60590,s=>{s.n(s.i(89083))}]);
